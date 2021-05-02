@@ -14,7 +14,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="actor-statemachine" options="-parameters" />
+      <module name="actor-statemachine" options="" />
       <module name="ips-bpm" options="-parameters" />
     </option>
   </component>
