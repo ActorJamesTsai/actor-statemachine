@@ -8,4 +8,6 @@ package com.avengers.actor.statemachine.engine.context;
  * @author JiaDu
  * @version 1.0.0
  */
-public interface ExecuteContext {}
+public interface ExecuteContext {
+
+}
